@@ -1,4 +1,4 @@
-horaEjecucion,tiempo(segundos),dcache_load_misses,dcache_loads,L1_dcache_stores,LLC_loads,cycles,instructions,cache_misses,all_per_cache,cache_references,branches,per_cpu
+horaEjecucion,tiempo(segundos),dcache_load_misses,dcache_loads,L1_dcache_stores,LLC_loads,instructions,cache_misses,all_per_cache,cache_references,branches,per_cpu
 08:00:38.042001049,0.25,92838,2381369,2346770,1092955,26915418,6219874,78759,3.097,2542761,1415907,99.47
 08:00:42.005409799,0.25,247441,5235698,848496,376376,27594198,6424405,82621,3.151,2622437,1435563,99.67
 08:00:43.961717956,0.25,431042,7962919,4567067,1924685,260015379,48315036,555225,2.851,19473134,9094125,99.56
